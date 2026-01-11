@@ -1,4 +1,4 @@
-Weather Forecasting – Exploratory Data Analysis (EDA)
+##Weather Forecasting – Exploratory Data Analysis (EDA)
 
 Project Overview
 
