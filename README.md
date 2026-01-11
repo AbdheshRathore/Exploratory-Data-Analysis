@@ -53,5 +53,3 @@ Builds a strong foundation for weather forecasting models
 Demonstrates real-world EDA and analytical thinking
 
 
-
-Date / Time
