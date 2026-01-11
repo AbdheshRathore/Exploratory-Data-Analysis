@@ -1,4 +1,4 @@
-##Weather Forecasting – Exploratory Data Analysis (EDA)
+Weather Forecasting – Exploratory Data Analysis (EDA)
 
 Project Overview
 
@@ -11,7 +11,7 @@ Analyze relationships between temperature, humidity, rainfall, and wind speed
 Identify seasonal variations and extreme weather conditions
 Prepare a clean dataset for future forecasting models
 
-🛠 Tools & Technologies
+Tools & Technologies
 
 Python
 
@@ -25,7 +25,7 @@ Seaborn
 
 Google colabe
 
-📂 Dataset
+Dataset
 
 Historical weather data (CSV format)
 Contains features such as:
@@ -43,6 +43,7 @@ Ozon
 Weather
 
 Conclusion
+
 The exploratory data analysis provided a comprehensive understanding of the weather dataset and its underlying patterns. Initial data inspection revealed minor missing values and inconsistencies, which were successfully handled during the data cleaning phase, resulting in a reliable and analysis-ready dataset.
 
 Univariate analysis highlighted the distribution and variability of key weather parameters such as temperature, Ozon,Solar and wind speed. These variables exhibited clear seasonal behavior, particularly in temperature and Ozon patterns.
